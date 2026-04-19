@@ -21,16 +21,21 @@
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Pygame](https://img.shields.io/badge/Pygame-2B2B2B?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠️ Tools & Others
+### 🧪 Testing & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🚀 DevOps & Infrastructure
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-ffffff?style=for-the-badge&logo=linux&logoColor=black)
+![Systemd](https://img.shields.io/badge/Systemd-ffffff?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 💻 Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black)
 
 ## ✨ Principles I Follow
 ![SOLID](https://img.shields.io/badge/SOLID-2C4F7C?style=for-the-badge&logoColor=white)
